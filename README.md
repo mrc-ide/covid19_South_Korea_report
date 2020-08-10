@@ -3,7 +3,7 @@
 
 This repository contains data and references pertaining to analysis of "Response to COVID-19 in South Korea and implications for lifting stringent interventions". Analysis of the data up until May 11th is described in Report 25 published by MRC Centre for Global Infectious Disease Analysis, Imperial College London.
 
-You can find the report here ( https://doi.org/10.25561/79388 )
+You can find the report [here](https://doi.org/10.25561/79388)
 
 The analysis has now been updated using the full dataset up until July 13th and has been submitted for publication.
 
